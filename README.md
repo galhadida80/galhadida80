@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">Hi 👋, I'm Gal</h1>
+<h3 align="center"> Computer Science graduate and looking for Junior developer position</h3>
+
+- 🔭 I’m currently working on [Sales app](https://github.com/galhadida80/All-Shop) (react-native-app)
+
+- 🌱 I’m currently learning **React, React Native and Python**
+
+
+
+
